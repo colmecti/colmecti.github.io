@@ -1,0 +1,53 @@
+body
+{
+	background-color: whitesmoke;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: yellowgreen;
+}
+
+#banner
+{	
+	font-size: 48px;
+	color: gray;
+	text-align: center;
+	width: 600px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: 250px;
+	
+}
+
+
+
+#ImageArea
+{
+	border: thin solid whitesmoke;
+	margin-left: 265px;
+	width: 600px;
+	height: 0px;
+}
+
+#TextArea
+{
+	border: thin solid whitesmoke;
+	margin-left: 250px;
+	width: 600px;
+	font-size: 24px;
+	padding: 15px;
+}
+
+#ImageArea2
+{
+	border: thin solid whitesmoke;
+	margin-left: 265px;
+	width: 600px;
+	height: 300px;
+}
